@@ -20,8 +20,9 @@ This is a lightweight, responsive **To-Do List Web App** built using **HTML, CSS
 
 ## 📸 Preview
 
-> ![App Screenshot](./todoimg.jpg)  
-<sub>*Sample background used in the app*</sub>
+> ![App Screenshot](![Screenshot 2025-07-08 100713](https://github.com/user-attachments/assets/e60c7255-ae3e-4b25-9449-7a8f06caaa13)
+)  
+
 
 ---
 
